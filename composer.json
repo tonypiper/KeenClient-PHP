@@ -18,6 +18,11 @@
             "name": "Tom Anderson",
             "email": "tom.h.anderson@gmail.com",
             "homepage": "http://db.etree.org"
+        },
+        {
+            "name": "Tony Piper",
+            "email": "tpiper@tpiper.com",
+            "homepage": "http://tpiper.com"
         }
     ],
     "autoload": {
